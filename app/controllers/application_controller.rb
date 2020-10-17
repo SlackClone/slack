@@ -3,5 +3,4 @@ class ApplicationController < ActionController::Base
   end
   def show
   end
-  def
 end
