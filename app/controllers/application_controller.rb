@@ -1,6 +1,6 @@
 class ApplicationController < ActionController::Base
   def index
   end
-   show
+  def show
   end
 end
