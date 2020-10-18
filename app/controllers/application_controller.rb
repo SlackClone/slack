@@ -8,4 +8,6 @@ class ApplicationController < ActionController::Base
   end
   def tt
   end
+  def gg
+  end
 end
